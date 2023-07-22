@@ -1,0 +1,11 @@
+C:\Users\DELL\source\repos\estoque top\estoque top\bin\Debug\estoque top.exe.config
+C:\Users\DELL\source\repos\estoque top\estoque top\bin\Debug\estoque top.exe
+C:\Users\DELL\source\repos\estoque top\estoque top\bin\Debug\estoque top.pdb
+C:\Users\DELL\source\repos\estoque top\estoque top\obj\Debug\estoque top.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\estoque top\estoque top\obj\Debug\estoque top.csproj.SuggestedBindingRedirects.cache
+C:\Users\DELL\source\repos\estoque top\estoque top\obj\Debug\estoque_top.Form1.resources
+C:\Users\DELL\source\repos\estoque top\estoque top\obj\Debug\estoque_top.Properties.Resources.resources
+C:\Users\DELL\source\repos\estoque top\estoque top\obj\Debug\estoque top.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\estoque top\estoque top\obj\Debug\estoque top.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\estoque top\estoque top\obj\Debug\estoque top.exe
+C:\Users\DELL\source\repos\estoque top\estoque top\obj\Debug\estoque top.pdb
